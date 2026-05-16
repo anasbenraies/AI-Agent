@@ -1,0 +1,10 @@
+wikipedia  # not installed yet
+langchain==0.2.11 
+langchain-community==0.2.10 
+langchain-google-genai==1.0.8
+duckduckgo-search==8.1.1
+ddgs==9.4.0 
+python-dotenv
+pydantic # not installed yet
+wikipedia
+#this project uses python 3.11

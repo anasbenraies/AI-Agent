@@ -1,0 +1,7 @@
+what to search for : 
+      X  add tools and figure out how to use them ( how to the model uses the arguments , which data to put in which argument of the tool ) 
+      X  add database query as a tool . 
+         push project whatsApp to github
+         begin certification
+         revise the skills
+
