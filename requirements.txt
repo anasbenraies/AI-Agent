@@ -7,4 +7,6 @@ ddgs==9.4.0
 python-dotenv
 pydantic # not installed yet
 wikipedia
+fastapi 
+uvicorn
 #this project uses python 3.11
